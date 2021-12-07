@@ -1,0 +1,14 @@
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\bin\Debug\netcoreapp3.1\pracadomowalab3.exe
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\bin\Debug\netcoreapp3.1\pracadomowalab3.deps.json
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\bin\Debug\netcoreapp3.1\pracadomowalab3.runtimeconfig.json
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\bin\Debug\netcoreapp3.1\pracadomowalab3.runtimeconfig.dev.json
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\bin\Debug\netcoreapp3.1\pracadomowalab3.dll
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\bin\Debug\netcoreapp3.1\pracadomowalab3.pdb
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.csproj.AssemblyReference.cache
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.AssemblyInfoInputs.cache
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.AssemblyInfo.cs
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.csproj.CoreCompileInputs.cache
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.dll
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.pdb
+D:\SEMESTR 3\C#\lab3\pracadomowalab3\pracadomowalab3\obj\Debug\netcoreapp3.1\pracadomowalab3.genruntimeconfig.cache
